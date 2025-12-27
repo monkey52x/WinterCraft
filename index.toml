@@ -365,10 +365,6 @@ file = "config/entity_texture_features.json"
 hash = "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2"
 
 [[files]]
-file = "config/entityculling.json"
-hash = "5110d83fa12df053d48eb3bcfded9d174e617910ce3e6c72f01dfc248c4e6abb"
-
-[[files]]
 file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
@@ -797,10 +793,6 @@ file = "config/moonlight-common.toml"
 hash = "f28173484cb81557cba16b36b87af8a4ca36592c7570f8e1a524cb453dd7d4fa"
 
 [[files]]
-file = "config/moreoverlays.toml"
-hash = "bccaaf23e9f4b29c44ecbb2957b18b202d53cd516022ad91f60f3c34abb594bb"
-
-[[files]]
 file = "config/naturescompass-client.toml"
 hash = "12e21e8f6b4f99c727bf907935dbc7140cfd8e332f494e067f1c5fb7077b98d2"
 
@@ -819,10 +811,6 @@ hash = "351c540e7aac25ca043c4031bbd369177b5e64d0d225a00bc51409dc4d1bc079"
 [[files]]
 file = "config/ok_zoomer/config.toml"
 hash = "74112f064377b188380a9b36a57308f9684ef77e19b33f00bbc812a280251619"
-
-[[files]]
-file = "config/onlyhammersandexcavators.toml"
-hash = "7e5d468e05b4e970b70215f54af9d5ce009c77b9adf86a7b555ca58bc95e29ad"
 
 [[files]]
 file = "config/orbital_railgun-client.toml"
@@ -1814,11 +1802,6 @@ hash = "3c8d7d1041856e6d71f5ba21ec9d2eeb127eed2769b34fcbc3d63ec1baeb7f61"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "4f7aaa53b7fda3f98404b7bc40750abb256ecebda8b8ca79022b68b9160c9fbd"
-metafile = true
-
-[[files]]
 file = "mods/ex-pattern-provider.pw.toml"
 hash = "f2c3fc81b0336654d58829a9885fa4eee759b52b54759b2a2cf5c21b89c39234"
 metafile = true
@@ -2139,11 +2122,6 @@ hash = "90f87c2560a65b3f11e7542145ec4fe8d1b1eca7bdf21ec93b62eb986efbfc98"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "428cf706f5288a9af57c9a1dab4775cfaeeb8e12172ab14b943a0b50c0ecd7d7"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "f1c902d2836a8aedfa8ef247b34986b585469510048daaa671ddd0feee5af244"
 metafile = true
@@ -2176,11 +2154,6 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "b0c4d28b26ee4f52da2c45e2851216c382b75cbbe7e94c4bc220242612e1499c"
-metafile = true
-
-[[files]]
-file = "mods/only-hammers-and-excavators.pw.toml"
-hash = "28e88cd73be3f6516e33396531a6ee596267513155afacd987ea5d3356f26fe9"
 metafile = true
 
 [[files]]
@@ -2341,11 +2314,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "456ba3338058f1faa2df030137e5b763e21b93064cb6c376f505ae2ab20a2f16"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "c3bffe20ddfcfa088677011b58cc8e5811a853b692a18dbf84615a7c1db5bf4e"
 metafile = true
 
 [[files]]
