@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/.index/ad-astra.pw.toml"
+hash = "ec990e7e9aa20f65eb7e136f1f0372e69e2edd3685e020d76674e7116792d579"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "7aa7f1ad239ca8ff3d8377fd1ac52e0a07b2cf9348f632afcbf170e6364a8407"
 metafile = true
