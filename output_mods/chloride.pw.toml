@@ -1,0 +1,13 @@
+name = "chloride-FORGE-mc1.20.1-v1.7.3.jar"
+filename = "chloride-FORGE-mc1.20.1-v1.7.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8745614a4343aaff9c5030b3f9cf04990298f6a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7284929
+project-id = 931925

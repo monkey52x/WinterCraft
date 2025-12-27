@@ -1,0 +1,13 @@
+name = "jerintegration-5.5.0.jar"
+filename = "jerintegration-5.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1f2efe883bbb1df0e1e61e6b2b8468a5868dd759"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5281932
+project-id = 506948

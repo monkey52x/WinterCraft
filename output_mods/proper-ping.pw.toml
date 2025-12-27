@@ -1,0 +1,13 @@
+name = "proper_ping-1.20.1-1.0.0.jar"
+filename = "proper_ping-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b47454d04e599b01cd3807b065f3e20644bc6ac9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5169594
+project-id = 984800
