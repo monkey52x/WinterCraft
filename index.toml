@@ -1,2 +1,5 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/easy-villagers-forge-1.20.1-1.1.39.jar"
+hash = "f2826c6f4be28df912d263f7914888f1b173c09dc99cc41998013e817d0dfb1d"
