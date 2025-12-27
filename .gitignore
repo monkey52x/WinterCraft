@@ -5,3 +5,7 @@
 *.mrpack
 
 packwiz.exe
+
+Import.py
+
+Upload.bat
