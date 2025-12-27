@@ -1,0 +1,13 @@
+name = "onlyhammersandexcavators-1.20.1-0.4.jar"
+filename = "onlyhammersandexcavators-1.20.1-0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0ad7ce197696d60082c4ef755116216c5591baf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7250522
+project-id = 939215

@@ -1,0 +1,13 @@
+name = "superbwarfare-1.20.1-0.8.8-final-6a6b54795.jar"
+filename = "superbwarfare-1.20.1-0.8.8-final-6a6b54795.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93e14d39c3328b88eb54e6018e5f2f88f32cdb73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7292685
+project-id = 1218165

@@ -1,0 +1,13 @@
+name = "orbital_railgun-1.4.2.jar"
+filename = "orbital_railgun-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc52080ad2c0372ab05c6e189680caa4b6981302"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7292536
+project-id = 1358503
