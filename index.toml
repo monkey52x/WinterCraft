@@ -3,3 +3,8 @@ hash-format = "sha256"
 [[files]]
 file = "Upload.bat"
 hash = "e20f10a5848c3dec3d4649a44de9155dc80da9db2940ca21a46db4137a9a3e5b"
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "6ce9ce3159a94fb17442f8094b4be447e395158d57ac6fc5e1459d17a83efe72"
+metafile = true
