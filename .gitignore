@@ -4,10 +4,10 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
-packwiz.exe
+#packwiz.exe
 
-Import.py
+#Import.py
 
-Upload.bat
+#Upload.bat
 
 output_mods/
