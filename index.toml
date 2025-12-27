@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Upload.bat"
+hash = "feb5b780a5c2edf1049e1c46e38c59380ec9f0cb5bf1197418c86b0aff8e0fc4"
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
 metafile = true
