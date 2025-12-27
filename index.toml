@@ -2,4 +2,4 @@ hash-format = "sha256"
 
 [[files]]
 file = "Upload.bat"
-hash = "feb5b780a5c2edf1049e1c46e38c59380ec9f0cb5bf1197418c86b0aff8e0fc4"
+hash = "e20f10a5848c3dec3d4649a44de9155dc80da9db2940ca21a46db4137a9a3e5b"
