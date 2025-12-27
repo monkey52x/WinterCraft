@@ -1,0 +1,13 @@
+name = "fluid-1.20-1.1.8.jar"
+filename = "fluid-1.20-1.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d3b2324b10045a27c22031b6887f444f4404a3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7290142
+project-id = 1346709

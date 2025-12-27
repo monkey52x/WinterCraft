@@ -1,0 +1,13 @@
+name = "longerlogintimes-1.0.0-forge-mc1.20.jar"
+filename = "longerlogintimes-1.0.0-forge-mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "708e7f8f1dc2955c0331b5fb028fa97720762df3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4594800
+project-id = 566374
