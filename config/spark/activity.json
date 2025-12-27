@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "VLOGF",
+      "uniqueId": "5ada829f-5c9f-3ca4-8145-e9e20af73c8a"
+    },
+    "time": 1766769082860,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/VMpJ0kawG7"
+    }
+  }
+]

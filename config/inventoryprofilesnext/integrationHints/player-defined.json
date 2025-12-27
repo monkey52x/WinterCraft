@@ -1,0 +1,14 @@
+{
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
+        "ignore": true
+    },
+    "com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu": {
+        "ignore": true
+    },
+    "io.github.lightman314.lightmanscurrency.client.gui.screen.inventory.ATMScreen": {
+        "ignore": true
+    },
+    "io.github.lightman314.lightmanscurrency.common.menus.ATMMenu": {
+        "ignore": true
+    }
+}

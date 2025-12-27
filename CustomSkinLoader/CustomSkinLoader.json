@@ -1,0 +1,22 @@
+{
+  "version": "14.26.1",
+  "buildNumber": 36,
+  "loadlist": [
+    {
+      "name": "ElyBy",
+      "type": "ElyByAPI",
+      "root": "http://skinsystem.ely.by/textures/"
+    }
+  ],
+  "enableDynamicSkull": true,
+  "enableTransparentSkin": true,
+  "forceLoadAllTextures": true,
+  "enableCape": true,
+  "threadPoolSize": 8,
+  "enableLogStdOut": false,
+  "cacheExpiry": 30,
+  "forceUpdateSkull": false,
+  "enableLocalProfileCache": false,
+  "enableCacheAutoClean": false,
+  "forceDisableCache": false
+}
