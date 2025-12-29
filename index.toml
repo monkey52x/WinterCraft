@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/supplementaries-client.toml"
-hash = "587d6d424f51e92d023e0871811ee82b8f1a59100ed05c605eff5bbf11cc424d"
+hash = "6c23e35580c0c92973bb80aa12addcf3a803e61187925625562bba78d22cb65b"
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
