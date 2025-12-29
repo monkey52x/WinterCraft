@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/supplementaries-client.toml"
+hash = "587d6d424f51e92d023e0871811ee82b8f1a59100ed05c605eff5bbf11cc424d"
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "a246d31ff42f7c6d43841a065a4cd5144d7db70284993f0c614209ef49d37ad5"
 metafile = true
@@ -18,4 +22,9 @@ metafile = true
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "a8184faf87506a1029e5e77f25e15568ec280e14451e9e9b19c6afdb9351950c"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "83739fed4e58e997b7aeb4eeda7319b30f57c4afc13d17b45f6d9fec881acd3e"
 metafile = true
