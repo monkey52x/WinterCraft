@@ -1,2 +1,21 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "a246d31ff42f7c6d43841a065a4cd5144d7db70284993f0c614209ef49d37ad5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "490897359704ec308c4a81ceb4105aacf0120d9a872111a5069f392fc5c88f2f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "656dd3bff7bccd46e968b36de94e80d1f0a1e06da4d6a364f018d0dc2aa59475"
+metafile = true
+
+[[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "a8184faf87506a1029e5e77f25e15568ec280e14451e9e9b19c6afdb9351950c"
+metafile = true
